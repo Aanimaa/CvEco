@@ -28,3 +28,4 @@ Le `basePath` est calculé automatiquement depuis le nom du dépôt (laissé vid
 
 Tout le contenu du CV est dans `app/data.js`. Le style est dans `app/globals.css`.
 # CvEco
+# CvEco
