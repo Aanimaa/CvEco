@@ -1,0 +1,16 @@
+{
+  "name": "cv-theo-strobbe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CV éco-conçu de Théo Strobbe, réalisé avec Next.js (export statique)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out"
+  },
+  "dependencies": {
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
